@@ -50,19 +50,10 @@ NagarAI is a digital platform connecting citizens with government authorities to
     npm run preview
     ```
 
-## 🚀 Deployment
+## 🚀 Live Website
 
-### GitHub Pages / Vercel / Netlify
+Visit our live platform here: [http://nagarai.surge.sh/](http://nagarai.surge.sh/)
 
-This project is built with Vite, making it easy to deploy on static hosting platforms.
-
-**Deploying to Vercel (Recommended):**
-
-1.  Push your code to a GitHub repository.
-2.  Go to [Vercel](https://vercel.com/) and sign up/login.
-3.  Click "Add New..." -> "Project".
-4.  Import your `nagarai-demo` repository.
-5.  Vercel will automatically detect Vite. Click "Deploy".
 
 ## 🗺️ Roadmap
 
